@@ -1,0 +1,2 @@
+# OpticalCharacter
+Professional OpticalCharacterRecognition solution with OpticalCharacterRecognition-optimized cloud-ready and enterprise opticalcharacterrecognition-optimization capabilities
